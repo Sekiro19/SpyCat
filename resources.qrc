@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="all">
+    <file>bin/images/loadingInf.gif</file>
+    <file>bin/images/cil-arrow-bottom.png</file>
+    <file>bin/images/cat.ico</file>
+    <file>bin/images/cil-terminal.png</file>
+    <file>bin/images/cat.png</file>
+    <file>bin/images/icons8-send-24.png</file>
+    <file>bin/images/icons8-send-24hover.png</file>
+    <file>bin/images/icons8-trash-bin-24.png</file>
+    <file>bin/images/msgAddFile.png</file>
+  </qresource>
+</RCC>
